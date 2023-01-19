@@ -56,6 +56,7 @@ exclude:
 - LICENSE
 - README.md
 - CNAME
+- vendor
 theme: jekyll-theme-cayman
 paginate: 10
 paginate_path: "/posts/page:num/"
